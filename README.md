@@ -1,7 +1,6 @@
  👋 Hi, I’m Garima Patowary
  garimapatowary26@gmail.com
- 
-- 
+
 
 <!---
 GarimaPatowary/GarimaPatowary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
